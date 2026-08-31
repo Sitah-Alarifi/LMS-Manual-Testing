@@ -47,4 +47,11 @@ This project demonstrates manual software testing of Moodle LMS from a student p
 All 12 planned test cases were executed successfully. The tested Moodle LMS functionalities behaved as expected during the testing process.
 
 ## Skills Demonstrated
-Manual Testing | Test Case Design | Test Execution | Functional Testing | Negative Testing | Test Documentation | QA
+
+- Manual Testing
+- Test Case Design
+- Test Execution
+- Functional Testing
+- Negative Testing
+- Test Documentation
+- Quality Assurance (QA)
